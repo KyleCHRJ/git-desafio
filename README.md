@@ -1,5 +1,5 @@
-# git-desafio
-Desafio de projeto sobre git/github
+# Desafio de Projeto
+Projeto sobre Git/GitHub
 
 ## Links úteis
 [Sintaxe basica md](https://www.markdownguide.org/getting-started/)
